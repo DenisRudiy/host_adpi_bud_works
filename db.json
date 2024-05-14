@@ -1,1 +1,70 @@
-
+{
+"jobs": [
+    {
+      "id": 0,
+      "title": "Демонтаж (будь-якої складності, гідромолот, гідроножиці)",
+      "img": "/Works/Works1.webp",
+      "price": 400
+    },
+    {
+      "id": 1,
+      "title": "Розробка котлованів",
+      "img": "/Works/Works2.webp",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "title": "Вивіз сміття",
+      "img": "/Works/Works3.webp",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "title": "Перевезення вантажів",
+      "img": "/Works/Works4.webp",
+      "price": 600
+    },
+    {
+      "id": 4,
+      "title": "Монолітні роботи",
+      "img": "/Works/Works5.webp",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "title": "Благоустрій території",
+      "img": "/Works/Works6.webp",
+      "price": 100
+    },
+    {
+      "id": 6,
+      "title": "Асфальтування",
+      "img": "/Works/Works7.webp",
+      "price": 500
+    },
+    {
+      "id": 7,
+      "title": "Берегоукріплення / розчистка / розборка / поглиблення водойм",
+      "img": "/Works/Works8.webp",
+      "price": 400
+    },
+    {
+      "id": 8,
+      "title": "Підняття рівня ділянки/ засипка яру",
+      "img": "/Works/Works9.webp",
+      "price": 600
+    },
+    {
+      "id": 9,
+      "title": "Зрізання дерев",
+      "img": "/Works/Works10.webp",
+      "price": 300
+    },
+    {
+      "id": 10,
+      "title": "Підготовка майданчику до початку будівельних робіт",
+      "img": "/Works/Works11.webp",
+      "price": 500
+    }
+  ]
+}
